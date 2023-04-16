@@ -1,2 +1,2 @@
-## My To Do App
-[To Do App Site ](https://to-do-app-vue3.vercel.app/)
+## ToDo App
+ToDo APP is a test application with Vue3, Pinia and Tailwind CSS.
